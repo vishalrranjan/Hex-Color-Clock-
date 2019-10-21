@@ -6,5 +6,5 @@
 #### CSS
 #### JavaScript
 
-#Description :-
+# Description :-
 * This App create a HEX COLOR CODE and changes the background of the app according to the hex code. This hex code is generate according to the real time system.
